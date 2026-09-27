@@ -1,0 +1,1 @@
+# A vendor-neutral, multi-tenant inference fabric that admits, routes, deploys, scales, schedules, caches, observes, meters, and recovers model-serving workloads across heterogeneous accelerator fleets while treating vLLM, SGLang, Triton/TensorRT-LLM, and Ray as pluggable execution substrates.
